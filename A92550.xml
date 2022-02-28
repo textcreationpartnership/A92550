@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Parliament of Scotland for rerigion [sic], crown, and covenant, and their resolution to adhere thereunto, and to preserve and maintain their ancient government, by a mixt monarchy of King, Lords, and Commons, and their further proceedings thereupon, in relation to their young King, and the Parliament of England. Also, a declaration to the citizens of London, concerning twenty thousand horse and foot to be raised for the Prince, under the command of Generall Hatzfield, with the advice and proposals thereupon. And the King of Denmark's sending forth a new fleet to fall vpon the English ships.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92550</idno>
+            <idno type="STC">Wing S1223</idno>
+            <idno type="STC">Thomason E563_4</idno>
+            <idno type="STC">ESTC R206068</idno>
+            <idno type="EEBO-CITATION">99865256</idno>
+            <idno type="PROQUEST">99865256</idno>
+            <idno type="VID">165250</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92550)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165250)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E563[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Parliament of Scotland for rerigion [sic], crown, and covenant, and their resolution to adhere thereunto, and to preserve and maintain their ancient government, by a mixt monarchy of King, Lords, and Commons, and their further proceedings thereupon, in relation to their young King, and the Parliament of England. Also, a declaration to the citizens of London, concerning twenty thousand horse and foot to be raised for the Prince, under the command of Generall Hatzfield, with the advice and proposals thereupon. And the King of Denmark's sending forth a new fleet to fall vpon the English ships.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for R. Williamson,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 5th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monarchy --  Scotland --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165250:1" rendition="simple:additions"/>
+            <p>A DECLARATION Of the <hi>PARLIAMENT</hi> of SCOTLAND. FOR RERIGION, CROWN, and COVENANT,</p>
+            <p>
+               <hi>AND</hi> Their Reſolution to adhere thereunto, and to preſerve and maintain their ancient Government, by a mixt Monarchy of <hi>KING, LORDS,</hi> and <hi>COMMONS,</hi> and their further proceedings thereupon, in rela<g ref="char:EOLhyphen"/>tion to their young King, and the Par<g ref="char:EOLhyphen"/>liament of <hi>ENGLAND.</hi>
+            </p>
+            <p>
+               <hi>ALSO,</hi> A Declaration to the Citizens of <hi>London,</hi> concerning twenty thouſand Horſe and Foot to be raiſed for the Prince, under the command of Generall <hi>Hatzfield,</hi> with the advice and Propoſals thereupon.</p>
+            <p>
+               <hi>AND</hi> The King of <hi>Denmark</hi>'s ſending forth a new Fleet to fall vpon the Engliſh Ships.</p>
+            <p>Imprinted at <hi>London,</hi> for <hi>R. Williamſon,</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:165250:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:165250:2"/>
+            <head>THE DECLARATION Of the Kingdom of SCOTLAND FOR Religion, Crown, and Covenant; and their Reſolution tou<g ref="char:EOLhyphen"/>ching the Parliament of <hi>England;</hi> their preparations to fight for <hi>Charles</hi> the ſecond, and 8000 Horſe and 12000 Foot raiſing in <hi>Holland.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Parliament of Scotland begins to diſplay the banner of great Politicians, and have taken an Oath of Secreſie not to impart or diſcloſe the reſults of their debates til all things come to maturity and ripeneſſe: all their conſul<g ref="char:EOLhyphen"/>tations tends to the purging of the Army, adhering to their Covenant, and maintaining their Government by a mixt Mo<g ref="char:EOLhyphen"/>narchy of King, Lords, and Commons; and in order there<g ref="char:EOLhyphen"/>unto,
+<pb n="2" facs="tcp:165250:3"/>the major part have entred into proteſt, and declared, in the name of all the Commons of that Kingdom, That they will (to the utmoſt of their power) endeavour the preſer<g ref="char:EOLhyphen"/>vation of the peace and tranquility thereof, againſt all op<g ref="char:EOLhyphen"/>poſition or power whatſoever, and that they will likewiſe endeavour the true eſtabliſhing of a firm and unſpotted Mo<g ref="char:EOLhyphen"/>narchy <hi>(which can hardly be)</hi> according to the ancient Lawes Liberties and Cuſtome of that Kingdom, and doth further remonſtrate exceeding high language againſt the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England,</hi> in reference to the late Kings execution, &amp; their preſent tranſactions between Parliament and Army: But their young Kings Anſwer ſeeming unſatisfactory to the deſires of the Commiſſioners of the Kirk, cauſeth them rather to pray for his Converſion; then adviſe his Confor<g ref="char:EOLhyphen"/>mity.</p>
+            <p>However, the vulgar ſort of people ſeem to reſcent his condeſcenſions, and ſay, that unleſſe their plants receive moi<g ref="char:EOLhyphen"/>ſture from the ſap of the Cedar, the bark and pith of the poor Shrub will fade and decay.</p>
+            <p>Hence it is, that tyrannicall Oppreſſors have received an allarum throughout all Ages, with the deſperate Careers of a diſtreſſed multitude, who no ſooner enter by ſtorme, but they make their enemies (though never ſo great) drink the dregs of their cup of fury, and not only ſo, but leaves them and their Iſſue, odious to all poſterity.</p>
+            <p>But its hoped that thoſe who keep their Trophies of <hi>Vic<g ref="char:EOLhyphen"/>toria</hi> by love, will challenge a high applauſe of Chriſtiani<g ref="char:EOLhyphen"/>ty and Souldiery, and attempt deſperate adventures for the bringing of their oppreſſors to a ſpeedy ruine; notwithſtan<g ref="char:EOLhyphen"/>ding all their forraign machavilianiſm, to a new involving; It being apparent that their preſent actings beyond the Seas, tends to the univerſall deſtruction of the well-affected par<g ref="char:EOLhyphen"/>ty throughout the three Nations; the which, that it may ap<g ref="char:EOLhyphen"/>pear
+<pb n="4" facs="tcp:165250:3"/>more viſible to your ſtately Fabrick and renowned Metropolis, I ſhall here repreſent unto the Ornaments and Inhabitants thereof, a perfect Demonſtration and Declara<g ref="char:EOLhyphen"/>tion of the proceedings of the King of Scots and his Adhe<g ref="char:EOLhyphen"/>rents, in reference to an engagement againſt them; to the end they may receive a timely allarum, for a ananimous aſſoci<g ref="char:EOLhyphen"/>ation, with thoſe renowned Truſtees, who have ſo deerly purchaſed their liberties; the ſum and abſtract whereof I ſhall here inſert as followeth, <hi>viz.</hi>
+            </p>
+            <p>The King of Scots hath ſent ſeverall Embaſſies to forraign Princes and Potentates; <hi>to wit,</hi> the moſt high and mighty Imperialiſt, the Emperour of Germany, <hi>Philip</hi> King of <hi>Spain, Lewis</hi> King of <hi>France,</hi> and the moſt pious and vertuous Princeſſe the Queen of <hi>Swethland,</hi> earneſtly imploring time<g ref="char:EOLhyphen"/>ly ayd and aſſiſtance for his reſtauration; and we hear that great preparations are (there) making ſuitable to his De<g ref="char:EOLhyphen"/>ſires, and that upon the Confines of High Germany ſeverall Regiments of Horſe and Foot are raiſing, which are to be diſtinctly divided into four Brigades, each Brigade to con<g ref="char:EOLhyphen"/>ſiſt of 4000 Horſe, and 6000 Foot, to be commanded by Generall <hi>Hatzfield,</hi> who hath Commiſſion proffered from the King of Scots, for the leading and conducting of them according as his titular Majeſty and his Councell ſhall de<g ref="char:EOLhyphen"/>termine of. (<hi>This Generall</hi> Hatzfield <hi>hath a point of great po<g ref="char:EOLhyphen"/>licy if he can raiſe ſomthing out of nothing; for although there be ſo many deſigned, yet there are not a quarter ſo many (as yet) levied.</hi>
+            </p>
+            <p>We hear that the King of <hi>Denmark</hi> hath ſent an additio<g ref="char:EOLhyphen"/>nall Fleet to the Zund, to intercept and fall upon the Engliſh ſhips at their return from the Eaſt Country; and for cer<g ref="char:EOLhyphen"/>tain it is, that both the Scots and others have them in a uni<g ref="char:EOLhyphen"/>verſall hatred.</p>
+            <closer>
+               <dateline>
+                  <hi>Berwick</hi> 
+                  <date>30 June, 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:165250:4"/>
+            <opener>
+               <salute>Right Honoured,</salute>
+            </opener>
+            <p>THe Marq. of Ormond with <hi>13000</hi> Horſe and Foot is ſate down before the City of Dublin, with a reſolution to storm, if not ſuddenly ſurrendred upon ſummons; but renowned Col. Jones hath taken a reſolution to fight it out to the last man, and hath already made a gallant attempt and inroad vpon his Outquartes with <hi>2000</hi> Horſe and Foot; and after a ſharp conflict Col. <hi>Jones</hi> made an honourable retreat in<g ref="char:EOLhyphen"/>to the City with the loſse of <hi>7</hi> or <hi>8,</hi> beſides ſome ſew wounded; but the Lord <hi>Inchiquins</hi> Brigade of horſe being gallantly moun<g ref="char:EOLhyphen"/>ted, took vpon them great reſolution, and embraced the purſuit within a quarter of a mile of the Gates, where we had a ſecond engagement, which continued very dubious for the ſpace of half an hour, till at last a conſiderable party of the Sea-men came in to our aſſiſtance, who by their lining of the hedges, did ſo gall the Enemy, that they were forced to retreat, leaving above <hi>30</hi> men dead vpon the place; in which fight we took Captain <hi>Smith,</hi> Cornet <hi>Johnſon,</hi> and about ten more priſoners, with the loſse of five men.</p>
+            <p>Since which time, they have made another attempt vpon our Out-guards, and vpon the neer approoch of their forlorn hope conſiſting of about <hi>60</hi> horſe, <hi>30</hi> of ours anſwered their charge, and ſhot Lieut. Col. <hi>Dungans</hi> horſe vnder him, took him priſo<g ref="char:EOLhyphen"/>ner, and Major <hi>Dungan</hi> his brother was mortally wounded, our men brought off <hi>7</hi> of their horſe, and (bleſsed be God) but one man wounded, none ſlain.</p>
+            <p>They are incamped within a mile and a half of the City, where they expect the coming vp of the Earl of <hi>Clanrickard,</hi> Lord <hi>Taff,</hi> and the Lord <hi>Dillon,</hi> with their forces, for a ſudden con<g ref="char:EOLhyphen"/>junction; and then to make a ſharp ſtorm.</p>
+            <p>Their Tents are pitcht on this ſide <hi>Fingles,</hi> their horſe and foot lye all in our ſight; Col. <hi>Jones</hi> is labouring hard to fortifie against them, hath given Orders for the pulling down all the Outhouſes that may advantage their deſign, and hath ſet forth Proclamation for all the Iriſh Papists, and other diſaffected
+<pb facs="tcp:165250:4"/>Citizens, to depart the City within <hi>12</hi> hours after the publiſh<g ref="char:EOLhyphen"/>ing thereof; by whoſe unwearied pains and vigilancy, we are in ſome reaſonable poſſibility of the more ſafety thereby, &amp; have hard duty to attend the Line dayly, but great will, vigour and eadineſse is in all men to perform the ſervice: We have about <hi>7000</hi> foot (with the Inhabitants) fighting men, and about <hi>500</hi> horſe to face the enemy: Our proviſions conſume very fast, and every thing is exceſſive dear, having now neither fiſh nor fleſh to come to our Markets, the enemy being poſseſsed of that which ſhould relieve us; and are in a proſperous condition at preſent, and like to do what they pleaſe if our friends in England do not relieve us ſuddenly, and mo<g ref="char:EOLhyphen"/>cey to pay them and thoſe that are already here, and more proviſions for them all, for Wheat is here at <hi>5. li. 10. s.</hi> the quarter, Rye at <hi>4. li. 10. s.</hi> the quarter, little to ſell, and little money to buy it, our Men of War are come from Bewmorris, and divers ſhips from Cheſter, and no men nor money, it is impoſſible (in mans judgment) for us to hold out till ayd comes from <hi>England.</hi>
+            </p>
+            <p>We have lost the good Town of <hi>Kildare,</hi> but it coſt the enemy ve<g ref="char:EOLhyphen"/>ry deer; for after three or four deſperate aſſaults made by them on the breaches, made by their Canon, having lost many of their men they ſent for a parley, and obſerving the undauted reſolution of Lies Col. <hi>Huteſon</hi> and Cap. <hi>Dixon,</hi> who commanded the men there, &amp; mo- of the men vnder them, although many of their men would not fighſt at all, &amp; are ſince gone to the enemy, that they gave our men quartet in two dayes to carry away what they had, where was great ſtore of corr and meal, Balleſoman is beſieged, and it must be loſt becauſe we can<g ref="char:EOLhyphen"/>not come to relieve them.</p>
+            <p>We hear that <hi>Owen Oneal</hi> with his forces is joyned with them of <hi>Kilkenny</hi> against us, but we have no certainty thereof. We are in a very ſad condition, all our proviſions being almoſt all ſpent, yet I hope the Lord will defend this place, and that every one that puts his truſt in him ſhall be delivered, to whoſe bleſſed protection I commend you, and reſt ever,</p>
+            <closer>
+               <signed>Your indeared, and moſt affectionate friend, SAMUELL COTTON.</signed>
+               <dateline>
+                  <hi>Dublin</hi> 
+                  <date>
+                     <hi>24 June, 1649.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="proposition">
+            <pb n="6" facs="tcp:165250:5"/>
+            <head>
+               <hi>The Propoſitions of Generall</hi> Owen Oneal, <hi>the Lords, Gentry, and Commons of the Confederate Catholiques in</hi> Ulſter.</head>
+            <head type="sub">To the moſt honorable and potent the Parliament of England.</head>
+            <p>
+               <hi>IMprimis,</hi> That all Laws, Statutes, Penalties, made, paſt, or con<g ref="char:EOLhyphen"/>cluded againſt the Roman Catholiques, its Miniſters or pro<g ref="char:EOLhyphen"/>feſſors, their liberties and exerciſes of the ſaid Religion, ſince the 21 year of <hi>H.</hi> 8 to be reclaimed and perpetually to be taken off, and to extend to that party and their ſucceſſors for ever.</p>
+            <p n="2">2 That the ſaid Gen. <hi>Oneal</hi> deſires that an Act of Oblivion be paſſed to extend to all and every of his party, for all things done ſince the beginning of the year 1641. 3 They deſire that General <hi>Oneal</hi> be provided for a competent command in the army, befit<g ref="char:EOLhyphen"/>ting his place worth or quality. 4 That on both ſides, all jealou<g ref="char:EOLhyphen"/>ſies, hate and averſion be laid aſide, unity, love and amity be re<g ref="char:EOLhyphen"/>newed and proclaimed between both parties. 5 That the Army belonging to Generall <hi>Oneal</hi> and his party, be provided for in all points as the reſt of the Army ſhall be.</p>
+            <p>Letters further from Berwick ſay, That the Scots begin to unite and that the major part are for an agreement with their King; but (ſay ſome) their chief object (at preſent) is upon Dublin, and that if Generall <hi>Ormond</hi> becomes maſter thereof, they intend a con<g ref="char:EOLhyphen"/>junction, and ſo to march into England with a very conſiderable Body, and the young King in the head of them. But theſe vapours are ſuppoſed to ariſe only from a Scottiſh Miſt, which with one ſtrong Southernly Engliſh Gale, become quite expelled and diſ<g ref="char:EOLhyphen"/>ſolved.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Imprimatur,</hi>
+                  </p>
+                  <closer>
+                     <signed>T. J.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
